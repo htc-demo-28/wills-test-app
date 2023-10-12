@@ -36,3 +36,5 @@ resources:
     type: mysql
   userdb:
     type: postgres
+  images:
+    type: azure-blob
